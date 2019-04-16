@@ -4,7 +4,7 @@
     </head>
     
     <body>
-	 
+	 <link rel="stylesheet" type="text/css" href="EdikTV.github.io/Style.css">
         <!-- Шапка начало -->
         <div id="header" class="section">
             <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
