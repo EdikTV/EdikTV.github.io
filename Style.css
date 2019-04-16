@@ -29,7 +29,7 @@ p {
     border-radius: 50%;
 }
 .section {
-    background-color: #00FF00;
+    background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -46,7 +46,7 @@ p {
 }
 #header p {
     font-size: 25pt;
-    color: #00FF00;
+    color: #fff;
     padding-top: 5px;
     margin: 0;
     font-weight: bold;
