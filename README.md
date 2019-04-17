@@ -143,7 +143,7 @@
         </div>
         <!-- Контакты -->
          <hr width="50%"/>
-        <div class="copyright">
+        <div class="copyright" align="center">
             &copy; 2019 Сайт Эдика. Все права защищены.
         </div>
         
