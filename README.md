@@ -133,10 +133,10 @@
                 <a href="https://www.sololearn.com/Profile/9440517/CPlusPlus" target="_blank">
                     <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
                 </a>
-                <a href="https://vk.com/id167846834">
+                <a href="https://vk.com/id167846834" target="_blank">
                     <img alt="VK" src="http://vk.com/images/vk32.png"/>
                 </a>
-                <a href="https://coub.com/8698497ae744373a1b0e13bcb836e267">
+                <a href="https://coub.com/8698497ae744373a1b0e13bcb836e267" target="_blank">
                     <img alt="Coub" src="https://coubsecure-s.akamaihd.net/get/b176/p/channel/cw_avatar/30e0a89d3f3/31a3fd5f24dff8ebe19b8/medium_1521806390_1521737087261.png" width="46" viewBox="0 0 46 46" />
                 </a>
             </div>
