@@ -56,7 +56,7 @@
                     <td class="selected">Спать</td>
                     <td class="selected">Физра</td>
                     <td class="selected">Инфа лекция</td>
-                    <td class="selected">Философия лекция</td>
+                    <td class="selected">Спать</td>
                 </tr>
                 <tr>
                     <td>14:00-15:30</td>
