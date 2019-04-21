@@ -7,7 +7,7 @@
 	 <link rel="stylesheet" type="text/css" href="EdikTV.github.io/Style.css">
         <!-- Шапка начало -->
         <div id="header" class="section">
-            <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
+            <img alt="" class="img-circle" src="https://vk.com/photo167846834_456242623">
             <p>Эдуард Пирогов</p>
         </div>
         <!-- Шапка конец -->
