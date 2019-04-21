@@ -85,6 +85,7 @@
             <ul>
                 <li>HTML <br />
                     <progress min="0" max="100" value="5"></progress>
+	        </li>
 		<li>С# <br />
                     <progress min="0" max="100" value="40"></progress>
                 </li>
