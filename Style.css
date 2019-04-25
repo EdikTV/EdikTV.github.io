@@ -24,6 +24,10 @@ p {
     padding: 0;
     margin: 0;
 }
+hr
+{
+    color: blue;
+}
 .img-circle {
     border: 3px solid white;
     border-radius: 50%;
