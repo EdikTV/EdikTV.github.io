@@ -26,6 +26,7 @@ p {
 }
 hr {
     color: red;
+    background-color: red;
     height: 2px;
 }
 .img-circle {
