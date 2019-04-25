@@ -21,7 +21,7 @@
             <p class="quote">"А верну я всё в джейсончик..."</p>
         </div>
         <!-- Кончили с сайтом -->
-        <hr width="50%"/>
+        <hr width="100%"/>
         <!-- Моё расписание -->
         <div class="section">
             <h1><span>Моё расписание</span></h1>
@@ -77,28 +77,28 @@
             </table>
         </div>
         <!-- Конец расписания -->
-         <hr width="50%"/>
+         <hr width="100%"/>
         
         <!-- Мои скилы -->
         <div class="section">
             <h1><span>Мои скилы</span></h1>
             <ul>
                 <li>HTML <br />
-                    <progress min="0" max="100" value="5"></progress>
+                    <progress min="0" max="100" value="30"></progress>
 	        </li>
 		<li>С# <br />
-                    <progress min="0" max="100" value="40"></progress>
+                    <progress min="0" max="100" value="50"></progress>
                 </li>
                 <li>С++ <br />
-                    <progress min="0" max="100" value="70"></progress>
+                    <progress min="0" max="100" value="75"></progress>
                 </li>
                 <li>Си <br />
-                    <progress min="0" max="100" value="30"></progress>
+                    <progress min="0" max="100" value="60"></progress>
                 </li>
             </ul>
         </div>
         <!-- Кончились скилы -->
-         <hr width="50%"/>
+         <hr width="100%"/>
         
          <!-- Блок видосов -->
         <div class="section">
@@ -106,7 +106,7 @@
             <iframe height="500" width="500" src="https://coub.com/view/10rm7q" allowfullscreen frameborder="0"></iframe>
         </div>
         <!-- Блок видосов кончился -->
-         <hr width="50%"/>
+         <hr width="100%"/>
         <!-- Секция формы -->
        <div class="section">
             <h1><span>Напиши мне (не работает)</span></h1>
@@ -145,7 +145,7 @@
             </div>
         </div>
         <!-- Контакты -->
-         <hr width="50%"/>
+         <hr width="100%"/>
         <div class="copyright" align="center">
             &copy; 2019 Сайт Эдика. Все права защищены.
         </div>
