@@ -107,28 +107,8 @@
         </div>
         <!-- Блок видосов кончился -->
          <hr width="100%"/>
-        <!-- Секция формы -->
-       <div class="section">
-            <h1><span>Напиши мне (не работает)</span></h1>
-            
-            <svg class="face" height="100" width="100">
-                <circle cx="50" cy="50" r="50" fill="#FDD835"/>
-                <circle cx="30" cy="30" r="10" fill="#FFFFFF"/>
-                <circle cx="70" cy="30" r="10" fill="#FFFFFF"/>
-                <circle cx="30" cy="30" r="5" fill="#000000"/>
-                <circle cx="70" cy="30" r="5" fill="#000000"/>
-                <path d="M 30 70 q 20 20 40 0" stroke="#FFFFFF" stroke-width="5" fill="none" />
-            </svg>
-                 
-            <form>
-                <input name="name" placeholder="Имя" type="text" required /><br/>
-                <input name="email" placeholder="Мыло" type="email" required /><br/>
-                <textarea name="message" placeholder="Текст письма" required ></textarea>
-                <input type="submit" value="Отравить" class="submit" />
-            </form>
-        </div>
-        <!-- Секция формы -->
-        <hr width="50%"/>
+        
+       
         <!-- Контакты -->
         <div class="section" id="contacts">
             <h1><span>Следуй за мной</span></h1>
