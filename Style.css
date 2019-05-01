@@ -5,13 +5,13 @@ html {
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
-    background-color: #efefef;
+    background-color: black;
     padding: 10px;
     margin: 0;
 }
 h1 {
     font-size: 15pt;
-    color: #20bcd5;
+    color: white;
     text-align: center;
     padding: 18px 0 18px 0;
     margin: 0 0 10px 0;
@@ -21,6 +21,7 @@ h1 span {
     padding: 10px;
 }
 p {
+    color: white;
     padding: 0;
     margin: 0;
 }
@@ -29,13 +30,13 @@ p {
     border-radius: 50%;
 }
 .section {
-    background-color: #fff;
+    background-color: black;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-image: url("https://pp.userapi.com/c9224/u89582717/142116133/y_d980002e.jpg");
     background-size: cover;
 }
 #header img {
@@ -61,17 +62,19 @@ table {
     width: 100%;
 }
 table, th, td {
-    border: 2px solid #cecece;
+    color: white;
+    border: 2px solid white;
     border-collapse: collapse;
     text-align: center;
     table-layout: fixed;
 }
 .selected {
-    background-color: #f36f48;
+    background-color: #7B68EE;
     font-weight: bold;
     color: white;
 }
 li {
+    color: white;
     margin-bottom: 15px;
     font-weight: bold;
 }
