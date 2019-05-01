@@ -23,7 +23,7 @@
         <!-- Кончили с сайтом -->
         <!-- Моё расписание -->
         <div class="section">
-            <h1><span>Моё расписание</span></h1>
+            <h1><span align="center">Моё расписание</span></h1>
             <table>
                 <tr>
                     <th>День</th>
