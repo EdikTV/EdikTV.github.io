@@ -71,7 +71,7 @@ table, th, td {
 .selected {
     background-color: #7B68EE;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 li {
     color: white;
