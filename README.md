@@ -3,7 +3,15 @@
         <title>Сайт Эдика</title>
     </head>
     
-    <body>
+    
+    <body class="back-row-toggle splat-toggle">
+  <div class="rain front-row"></div>
+  <div class="rain back-row"></div>
+  <div class="toggles">
+    <div class="splat-toggle toggle active">SPLAT</div>
+    <div class="back-row-toggle toggle active">BACK<br>ROW</div>
+    <div class="single-toggle toggle">SINGLE</div>
+  </div>
 	 <link rel="stylesheet" type="text/css" href="EdikTV.github.io/Style.css">
         <!-- Шапка начало -->
         <div id="header" class="section">
