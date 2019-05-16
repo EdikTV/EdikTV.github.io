@@ -1,0 +1,342 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align: justify;
+}
+body{
+	font-size: 1.2em;
+	background-color: #fff;
+	color: #555;
+}
+h1,h2{
+	font: normal 170% 'century gothic' arial;
+	margin: 0 0px 0px 0;
+	padding: 0px 0 5px 0;
+	color: #ooo;
+	float: left;
+}
+h1{
+	float: left;
+	border-radius: 5px;
+	border: solid 5px orange;
+	text-align: left;
+	color: orange;
+}
+h2{
+	font-size: 140%;
+	font-weight: bold;
+}
+ul {
+	margin: -40px 0 22px 0px;
+}
+ul li{
+	margin: 0 0 6px 0;
+	padding: 0 0 4px 5px;
+	line-height: 1.5em;
+	text-decoration: none;
+}
+.header{
+	background-color: black;
+	height: 150px;
+	font-size: 0.8em;
+	margin-left: 0;
+	margin-right: 0;
+	min-width: 900px;
+	width: 100%;
+}
+.main, .logo, .menubar,.site_content,.footer{
+	margin-left: auto;
+	margin-right: auto; 
+}
+.logo{
+	width: 1800px;
+	padding-bottom: 40px;
+}
+.logo h1{
+	font: normal 300% 'century gothic', arial, sans-serif;
+	margin: 40px 150px 0px 40px;
+	float: left;
+}
+.logo h2{
+	font: normal 300% 'century gothic', arial, sans-serif;
+	margin: 60px 0px 0px -60px;
+	float: left;
+	font-weight: bold;
+}
+.logo_text h1, .logo_text h1 a, .logo_text h1 a:hover {
+	padding: 0px 0 0 0;
+	color: orange;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+	margin: 0 0 0px px;
+}
+.logo_text h2{
+	font-size: 1.2em;
+	padding: 4px 0 0 0;
+	color: white;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+}
+ul.menu{
+	float: right;
+}
+ul.menu li{
+	float: left;
+	padding: 0 0 0 9px;     
+	list-style: none;
+	margin: 50px 2px 0 0;
+
+}
+ul.menu li a{
+	font: normal 100% 'trebuchet ms', sans-serif;
+	display: block;
+	height: 20px;
+	padding: 6px 35px 5px 28px;
+	color: white;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+}
+ul.menu li.selected a{
+	color: #aeb002;
+}
+ul.menu li a:hover {
+	color: #e4ec04;
+}
+.chislo{
+	border-radius: 5px;
+	border: solid 5px rgb(138, 200, 50);
+	background-color: rgb(138, 200, 50);
+	color: white;
+}
+.rating{
+	color: orange;
+	border-radius: 5px;
+	border: solid 3px orange;
+	float: right;
+	padding: 3px 6px 3px 3px;
+	margin: 70px -520px 0px 0px;
+	font-size: 1.2em;
+}
+.white{
+	color: white;
+	padding: 0 0px 0 10px;
+}
+.sitebar .rating_sitebar{
+	float: right;
+}
+.sitebar_container {
+	float: right;
+	width: 220px;
+}
+.sitebar {
+	float: left;
+	width: 220px;
+	padding: 5%;
+	margin: 30px 228px 16px -30px;
+	text-decoration: none;
+}
+.btn{
+	padding: 8px;
+	background-color: white;
+	cursor: pointer;
+}
+.sitebar h2{
+	color: white;
+	margin: 0 0 10px 0;
+	font-weight: bold;
+	border:solid 5px orange;
+	border-radius: 5px;
+	padding: 3%;
+
+}
+.lables_passreg_text{
+	font-size: 0.8em;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+.sitebar ul {
+	text-decoration: none;
+	color: black;
+	margin: 30px 0 5px 0;
+}
+.sitebar ul li {
+	list-style-type: none;
+	text-decoration: none;
+	margin: 20px 0 0 0; 
+}
+.sitebar a{
+	color: white;
+}
+.sitebar a:hover {
+	color: #e4ec04;
+}
+.telo{
+	margin: 0px 0 0 500px;
+	float: center;
+	width: 500px;
+	height: 0px;
+}
+.telo p{
+	margin:20px 0 0 -160px;
+	color: white;
+	font-size: 1.2em;
+	text-align: justify;
+}
+
+.telo h2{
+	padding:3%;
+	margin:30px 0 10px 10px; 
+	float: left;
+	border-radius: 5px;
+	border: solid 5px orange;
+	text-align: left;
+	color: white;
+	font-size: 140%;
+	font-weight: bold;
+}
+.telo .podpis{
+	color:rgb(138, 200, 50);
+
+	float: right;
+}
+.referati .refetati_sitebar{
+	float: left;
+}
+.referati_container {
+	float: left;
+	width: 220px;
+}
+.referati {
+	float: left;
+	width: 420px;
+	padding: 0%;
+	margin: -180px 0px 16px -200px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.referati h2{
+	color: white;
+	margin: 0 0 10px 0;
+	font-weight: bold;
+	border:solid 5px orange;
+	border-radius: 5px;
+	padding: 3%;
+}
+.referati ul {
+	text-decoration: none;
+	color: black;
+	margin: 40px 0 5px 0px;
+	font-size: 1.1em;
+	letter-spacing: 0.1em;
+}
+.referati ul li {
+	list-style-type: none;
+	text-decoration: none;
+	margin: 20px 0 0 0; 
+}
+.referati a{
+	color: white;
+}
+.referati a:hover {
+	color: #e4ec04;
+}
+.referati .podpis{
+	color:rgb(138, 200, 50);
+
+	float: right;
+	font-size: 0.9em;
+}
+.menushka ul li{
+  padding: 5px;
+}
+.menushka ul > li:hover{
+  color: rgb(138, 200, 50);
+}
+.menushka ul ul > li:hover{
+  color: rgb(138, 200, 50);
+}
+.menushka ul li, .menushka ul{
+  display: inline-block;
+}
+.menushka ul{
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+.menushka ul ul{
+  display: none;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: -10px;
+}
+.menushka ul a{
+  color: white;
+  text-decoration: none;
+}
+.menushka ul ul a{
+  color: white;
+  text-decoration: none;
+}
+.menushka li{
+	color: white;
+	margin:5px 0 15px 0;
+	float: left;
+	background-color: black;
+	margin-top: 10px;
+	margin-left: -10px;
+	border: solid 2px orange;
+	border-radius: 5px;
+}
+.menushka li:hover ul{
+  display: block;
+}
+
+.menushka li:hover li{
+  display: block;
+}
+.vidos{
+	margin: 300px 0 0 370px;
+}
+.footer {
+	width: 2800px;
+	height: 60px;
+	padding: 28px 200px 20px 200px;
+	text-align: center;
+	background-color: black;
+	color: orange;
+	min-width: 900px;
+	float: center;
+	margin: 45px 200px 0 -240px;
+}
+.footer a{
+	color: white;
+	text-decoration: none;
+}
+.footer a:hover{
+	color: #fff;
+	text-decoration: none;
+	padding: 30px 0 10px 420px;
+}
+.footer p{
+	padding: 30px 0 10px 550px;
+}
+.section {
+	color:white;
+    padding: 15px;
+    margin-bottom: 380px;
+    border-radius: 10px;
+    width: 1200px;
+}
+.selected {
+    font-weight: bold;
+    color: white;
+    border:solid 3px orange;
+    border-radius: 5px;
+}
+.nice{
+	margin: 50px 30px 10px 400px;
+	color: white;
+}
